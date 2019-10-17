@@ -1,3 +1,4 @@
+%Œµ–§‰ð
 function r=exact(x)
 L = 1;
 c = 0.01;
